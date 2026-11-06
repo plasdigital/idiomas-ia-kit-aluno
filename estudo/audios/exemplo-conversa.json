@@ -1,0 +1,10 @@
+{
+  "idioma": "es",
+  "titulo": "Exemplo: pedindo um café",
+  "falas": [
+    {"quem": "A", "texto": "Buenos días. ¿Qué te sirvo?", "pt": "Bom dia. O que te sirvo?"},
+    {"quem": "B", "texto": "Un café con leche, por favor.", "pt": "Um café com leite, por favor."},
+    {"quem": "A", "texto": "¿Algo más para comer?", "pt": "Mais alguma coisa para comer?"},
+    {"quem": "B", "texto": "Sí, una medialuna. ¿Cuánto es todo?", "pt": "Sim, uma medialuna. Quanto é tudo?"}
+  ]
+}

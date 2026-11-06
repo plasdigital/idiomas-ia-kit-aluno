@@ -1,0 +1,9 @@
+{
+  "idioma": "es",
+  "deck_base": "Espanhol",
+  "tag": "exemplo-cafe",
+  "cards": [
+    {"id": "001", "alvo": "Un café con leche, por favor.", "pt": "Um café com leite, por favor.", "nota": "por favor fecha o pedido"},
+    {"id": "002", "alvo": "¿Cuánto es todo?", "pt": "Quanto é tudo?"}
+  ]
+}

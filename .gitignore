@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*_tmp/
+.env
+.env.*
+estudo/audios/*.mp3
+estudo/audios/*-roteiro.md
+estudo/audios/*-tempos.json
+estudo/audios/*.mp4
